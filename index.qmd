@@ -17,7 +17,7 @@ about:
 
 :::{#hero-heading}
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I am studying Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I am currently writing my thesis at CITO about the measurement of Socio-Economic Status in PISA. In my free time I love to read, cook and do yoga. 
 
 ## Education
 
