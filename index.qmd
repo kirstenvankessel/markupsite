@@ -13,8 +13,6 @@ about:
       href: https://github.com/kirstenvankessel
 ---
 
-### This content appears above the formatted about page content.
-
 :::{#hero-heading}
 
 I am studying Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I am currently writing my thesis at CITO about the measurement of Socio-Economic Status in PISA. In my free time I love to read, cook and do yoga. 
@@ -34,5 +32,3 @@ Wengo Analytics | Head Data Scientist | April 2018 - present
 GeoScynce | Chief Analyst | Sept 2012 - April 2018
 
 :::
-
-### This content appears below the formatted about page content.
