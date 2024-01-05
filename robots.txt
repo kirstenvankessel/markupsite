@@ -1,1 +1,1 @@
-Sitemap: https://kirstenvankessel.github.io/markupsite/sitemap.xml
+Sitemap: https://github.com/kirstenvankessel/markupsite/sitemap.xml

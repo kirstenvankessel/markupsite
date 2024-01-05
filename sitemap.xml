@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kirstenvankessel.github.io/markupsite/about.html</loc>
-    <lastmod>2024-01-05T17:11:35.430Z</lastmod>
+    <loc>https://github.com/kirstenvankessel/markupsite/work.html</loc>
+    <lastmod>2024-01-05T20:29:07.149Z</lastmod>
   </url>
   <url>
-    <loc>https://kirstenvankessel.github.io/markupsite/index.html</loc>
-    <lastmod>2024-01-05T17:11:38.037Z</lastmod>
+    <loc>https://github.com/kirstenvankessel/markupsite/about.html</loc>
+    <lastmod>2024-01-05T20:29:06.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirstenvankessel/markupsite/index.html</loc>
+    <lastmod>2024-01-05T20:29:06.909Z</lastmod>
   </url>
 </urlset>
