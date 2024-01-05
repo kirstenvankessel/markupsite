@@ -6,9 +6,10 @@ website:
   title: "Kirsten van Kessel"
   navbar:
     left:
-      - href: index.qmd
+      - href: about.qmd
         text: Home
-      - about.qmd
+      - href: work.qmd
+        text: My Work
 
 format:
   html:
