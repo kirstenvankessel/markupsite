@@ -15,20 +15,27 @@ about:
 
 :::{#hero-heading}
 
-I am studying Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I am currently writing my thesis at CITO about the measurement of Socio-Economic Status in PISA. In my free time I love to read, cook and do yoga. 
+I am studying Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I am currently writing my thesis at CITO about the measurement of Socio-Economic Status in PISA 2018. In my free time I love to read, cook and do yoga. 
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+Utrecht University | Utrecht, the Netherlands
+Master in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences | Sept 2022 - June 2024
+Bachelor in Cognitive Psychology with a Minor in Methodology and Statistics | Sept 2019 - June 2022
+Descartes Honours College | Sept 2020 - June 2022
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+Stedelijk Gymnasium Nijmegen | Nijmegen, the Netherlands
+Nature and Technology + Nature and Health profile | Aug 2013 - July 2019
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+CITO | Arnhem, the Netherlands
+Intern | Sept 2023 - June 2024
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
+Utrecht University | Utrecht, the Netherlands
+Student Assistent Methods and Statistics | April 2022 - Present
+
+Utrecht University | Utrecht, the Netherlands
+Student Assistent Course 'Registreren' | Sept 2021 - Oct 2021
 
 :::
